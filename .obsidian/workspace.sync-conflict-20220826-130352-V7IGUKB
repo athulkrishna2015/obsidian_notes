@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "851304c4ebcd562a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc775cd5674dec17",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NET/Classical.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b39adee987cb34cc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "80d065a46dd9113f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "839d1f45f0ff9c51",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d1750ba6d6128463",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0c0217616cfecc0f",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "7fe8e99f7f19df7c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "NET/Classical.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "bc775cd5674dec17",
+  "lastOpenFiles": [
+    "Nano/ALS/Untitled.md",
+    "Nano/KY/Nano materials.md",
+    "Nano/KY/Nano.md",
+    "SB/Assembly.md",
+    "SB/Micro controller.md",
+    "RM/IPR.md",
+    "RM/GEOGRAPHICAL INDICATIONS.md",
+    "RM/Patent.md",
+    "RM/3. Research Design.md",
+    "SB/Screenshot_20220524_125019.png"
+  ]
+}

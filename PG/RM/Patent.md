@@ -1,0 +1,26 @@
+Exclusive right for being the true and first inventor of a product or process, granted by the Govt. for a limited period, to exclude others from making, using, selling or importing the patented product or process without his consent, in exchange for full disclosure of his invention
+- Term: 20 years from the Date of Filing
+- A patent is only valid in the jurisdiction in which it is granted
+- What is patentable ?
+	- A product
+	-  The apparatus for producing the product
+	-  The process
+	-  The composition of matter.
+- What is not patentable
+	-  Computer programmes
+	-  Medical and Surgical treatments
+	-  Mathematical methods
+	-  Business methods
+	-  Discoveries
+	-  Aesthetic creation
+	-  New species of plant or animal
+	-  The invension which are contrary to moral standards and public order
+	-  Invention related to atomic energy
+- What does patent system do ?
+-  It encourages research
+-  Induce an inventor to disclose his invention
+-  Encourage establishment of new industries
+-  Reasonable assurance for commercialization
+-  Facilitate technology transfer
+-  Stimulate R&D at Universities and Research centers
+-  Acts as catalysts for new technologies and new business

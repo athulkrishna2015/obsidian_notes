@@ -1,0 +1,5 @@
+- A trade secret is something that offers an advantage in business if it keep as a secret
+- A trade secret can be a client list, the formula for a product, etc.
+- A trade secret does not have to be patentable, but it must be capable of being maintained
+- Trade secrets are not registered with any government or other agency
+- 

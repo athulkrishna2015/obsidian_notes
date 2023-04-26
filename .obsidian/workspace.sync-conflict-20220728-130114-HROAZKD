@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "9b04b533f8c1ef81",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad5bdc0c85bf5c1e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NET/Classical.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60507764885cc96c",
+    "type": "split",
+    "children": [
+      {
+        "id": "37fc41b023dfae96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f100255484e873d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1a72da2666a59900",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "667c9d1ef8c26a82",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae416472074627e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7d85db4d491012d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1bc1f60c26d7747f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NET/Classical.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ad5bdc0c85bf5c1e",
+  "lastOpenFiles": [
+    "Phd/material.md"
+  ]
+}

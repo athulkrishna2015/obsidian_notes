@@ -1,0 +1,5 @@
+- Copying someone else's work without credit
+- Plagiarism (“plagiary”) derived from the Latin word ‘‘Plagiarius’’ which means a kidnapper
+- Quoting a source without using quotation marks-even if you do cite it
+- Using photographs/images, without acknowledgement
+- 

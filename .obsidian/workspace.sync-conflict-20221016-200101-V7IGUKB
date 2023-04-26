@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "9b04b533f8c1ef81",
+    "type": "split",
+    "children": [
+      {
+        "id": "63e6373590d64213",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Constants.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "9ce9969b82658a08",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NET/Mathematical.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "ed9b56d720d62ebb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NET/Classical.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "765354ba4cc15e6d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0be448307d32bd7d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "d1b62d05a943cb79",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "87fe88111615633a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "97c0d7e95e72951b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Constants.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "437259b3716f2cfb",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "63e6373590d64213",
+  "lastOpenFiles": [
+    "NET/Mathematical.md",
+    "NET/Classical.md",
+    "Constants.md",
+    "NET/EMT.md",
+    "Phd/material.md"
+  ]
+}

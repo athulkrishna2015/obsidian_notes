@@ -1,0 +1,18 @@
+- $\frac{1}{4\pi \epsilon_0} =9\times10^9$
+- $\epsilon_0 = 8.85\times 10^{-12}$
+- $\mu_0 = 4\pi \times 10^{-7}$
+- $G=6.7\times 10^{-11} m^3 kg^{-1}s^{-2}$
+- $h=6.6\times 10^{-34} Js$
+	- $\hbar = 1.05\times 10^{-34}$
+- $c=3\times 10^8 m/s$
+- $1 \text{ amu or Dalton} = 1.66\times 10^{-27} kg$ 
+- $e= 1.6\times 10^{-19} J$
+- $m_e = 9.1 \times  10^{-31} kg$
+	- $m_p=1836m_e$
+	- $m_n=1840m_e$
+- $E=0.51MeV$, Rest mass energy of electron
+- $R_{\infty} = \frac{m_e^4}{8\epsilon_0^2h^3 c} =1.097\times 10^{7}m^{-1}$,Rydburg const. 
+- $R=8.314 J/k/mol,$$\quad R=N_A k_B$
+- $N_A=6.022\times10^{23}$
+- $k_B=1.38\times 10^{-23}m^2 kg s^{-2}K^{-1}$
+- 

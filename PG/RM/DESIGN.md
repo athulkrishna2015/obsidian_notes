@@ -1,0 +1,4 @@
+- The protection only for the appearance of the article and not how it work
+- Duration protection- 10 years and extendable for another term of 5 years
+- Designs of stamp, labels, tokens, cards, or cartoons and part of an article sold separately can not be registered
+- 

@@ -1,0 +1,6 @@
+- Copyright means exclusive right to do or authorize others to do certain acts in relation to Literary, dramatic, music, and artistic works. Books, Cinema/TV programmes, Sound recordings
+- Permission is needed to reproduce the copyrighted material
+	- Term: Author's life plus 60 years (Books) 
+	- 60 years (Films, photographs)
+	- 25 years (Broadcasting)
+- 

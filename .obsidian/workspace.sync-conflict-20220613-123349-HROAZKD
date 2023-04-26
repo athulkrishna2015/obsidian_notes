@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "851304c4ebcd562a",
+    "type": "split",
+    "children": [
+      {
+        "id": "db8792c4ea96eb1e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "RM/1. Research Methodology.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "09f1cbf0fbd88898",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "RM/3. Research Design.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "e71efe5d368e6496",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "RM/4. Sampling  Design.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "47bf1bb8fd9aab3f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "RM/2. Defining the Research Problem.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aadc7beaabffd964",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2393d65a3c0fc8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7fcd18d7026b768",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5958a6213aec7ffd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fcfe9248b63fad8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee6920e9a4a0149c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f63fd4ba2b231e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RM/2. Defining the Research Problem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee99a8700d6ffa25",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "47bf1bb8fd9aab3f",
+  "lastOpenFiles": [
+    "RM/2. Defining the Research Problem.md",
+    "RM/3. Research Design.md",
+    "RM/4. Sampling  Design.md",
+    "RM/1. Research Methodology.md",
+    "RM/TRIPS and TRIMS.md",
+    "RM/Branding.md",
+    "RM/COPY RIGHT.md",
+    "RM/DESIGN.md",
+    "RM/GATT and WTO.md",
+    "RM/GATS.md"
+  ]
+}

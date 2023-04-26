@@ -1,0 +1,4 @@
+- Branding is the process by which the name or the identity of a company, an enterprise, an organization (etc.) is communicated.
+- Branding allows a company to diﬀerentiate its products and services from the competition by creating a bond with its customers. It aims to take a position in the marketplace and create customer loyalty.
+- It is the way by which companies launch and sell goods & services, communicating the essence of new products and lines, highlighting why it is great and better than all competing products.
+- 

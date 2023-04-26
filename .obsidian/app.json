@@ -1,0 +1,12 @@
+{
+  "spellcheckDictionary": [
+    "GATS"
+  ],
+  "attachmentFolderPath": "./attach",
+  "alwaysUpdateLinks": false,
+  "promptDelete": true,
+  "livePreview": false,
+  "useMarkdownLinks": false,
+  "spellcheck": true,
+  "showUnsupportedFiles": true
+}

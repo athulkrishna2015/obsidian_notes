@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "9b04b533f8c1ef81",
+    "type": "split",
+    "children": [
+      {
+        "id": "6051751f8fc7485c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c9d7902969397c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Constants.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4832f13e399ba5cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NET/Quantum mechanics.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1e005857c7a6879b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NET/Mathematical.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1,
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60507764885cc96c",
+    "type": "split",
+    "children": [
+      {
+        "id": "37fc41b023dfae96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f100255484e873d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a72da2666a59900",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 188.50868225097656
+  },
+  "right": {
+    "id": "667c9d1ef8c26a82",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae416472074627e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bc1f60c26d7747f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NET/Quantum mechanics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8dc6a15850f8c5c5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "4832f13e399ba5cd",
+  "lastOpenFiles": [
+    "obsidian_notes",
+    "NET/attach/Screenshot_20230426_182722.png",
+    "NET/attach",
+    "NET/Mathematical.md",
+    "NET/Quantum mechanics.md",
+    "Constants.md",
+    "NET/Thermo dynamics.md",
+    "PSC/Maths formulas.md",
+    "PSC/Constitution.md",
+    "NET/Classical Mechanics.md",
+    "NET/atomic and molecualar.md",
+    "Tet/Psychology.md",
+    "Tet",
+    "NET/EMT.md",
+    "NET/Electronics.md",
+    "NET/Optics.md",
+    "NET/Oscilation,Wave.md",
+    "NET/Solid state Physics.md",
+    "B.Ed/Philosophy/Contemporary India and Perspectives on Education/years.md",
+    "B.Ed/Psycholgy/Development of the learner/Stages range.md",
+    "B.Ed/Psycholgy/Development of the learner/Social Development.md",
+    "B.Ed/Psycholgy/Development of the learner/Personality.md"
+  ]
+}
