@@ -75,12 +75,12 @@ anticammutative
 #### Hermitian operator
 - $<f|A|g> = <fB|g>$ B is Hermitian adjoint of A  ($B=A^\dagger$)
  - $<f|Ag> = $<A^\dagger f|g>$
- - $\int_{-\inf}^{inf} f^* \hat{A} g dx =\int_{-\inf}^{infty} (A^\dagger f)^* g dx$
+ - $\int_{-\infty}^{\infty} f^* \hat{A} g dx =\int_{-\infty}^{\infty} (A^\dagger f)^* g dx$
 
 - if $A^\dagger = A$ then A is Hermitian operator
 - operators associated with physical quantities are Hermitian
  - $i^\dagger = -i$
-
+- The eigen values of an hermitian operators are real and the corresponding eigen vectors are orthogonal
 
 #### Projection operator
 - $p^2 = p$
