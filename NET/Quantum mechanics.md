@@ -72,7 +72,7 @@ anticammutative
 - Expectation value $<A>=\frac{<\psi|A|\psi>}{<\psi|\psi>}$(average value)
 	- $<A>=\Sigma p_i a_i$, Only applicable when basis vectors are eigen state of the operator 
 		- $<E>=\Sigma p_i \epsilon_i$
-
+#### Hermitian operator
 - $<f|A|g> = <fB|g>$ B is Hermitian adjoint of A  ($B=A^\dagger$)
  - $<f|Ag> = $<A^\dagger f|g>$
  - $\int_{-\inf}^{inf} f^* \hat{A} g dx =\int_{-\inf}^{inf} (A^\dagger f)^* g dx$
