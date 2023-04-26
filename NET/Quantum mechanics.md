@@ -97,11 +97,25 @@ anticammutative
 	- $L_z=xP_y-yP_z$
 ![[Screenshot_20230426_182722.png]]
 
+#### Inverse operator 
+- $B=A^{-1}$
+	- $AB=I$
+- $A|\psi>=\lambda |\psi>$
+	- $A^{-1}|\psi>=\frac{1}{\lambda} |\psi>$
+##### unitary operator
+- $A^\dagger = A$ or $AA^\dagger=I$
+- product of unitary operators is also a unitary operator
+- Eigen value of unitary operator is complex number of modulus =1
+- Eigen vectors of a unitary operator that has non degenerate eigen values are orthogonal
+
 ## Uncertainty relation 
 
 $\Delta A \Delta B =\frac{1}{2}|<[A,B]>|$
 - $\Delta A \geq \sqrt{<A^2>-<A>^2}$ 
 
+### Hermitian function
+${f(A)}^\dagger = f(A)$
+- iff $f$ is real and $A$ is hermitian function
 
 ## Schrodinger equation 
 - $i\hbar \frac{\partial \psi}{\partial t}= \frac{-\hbar^2}{2m}\nabla^2\psi + U(\psi)$
