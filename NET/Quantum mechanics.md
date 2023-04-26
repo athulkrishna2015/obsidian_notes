@@ -81,6 +81,7 @@ anticammutative
 - operators associated with physical quantities are Hermitian
  - $i^\dagger = -i$
 - The eigen values of an hermitian operators are real and the corresponding eigen vectors are orthogonal
+	-  The eigen values of an Anti-hermitian operators are Zero or imaginary and the corresponding eigen vectors are orthogonal
 
 #### Projection operator
 - $p^2 = p$
