@@ -75,7 +75,7 @@ anticammutative
 #### Hermitian operator
 - $<f|A|g> = <fB|g>$ B is Hermitian adjoint of A  ($B=A^\dagger$)
  - $<f|Ag> = $<A^\dagger f|g>$
- - $\int_{-\inf}^{inf} f^* \hat{A} g dx =\int_{-\inf}^{inf} (A^\dagger f)^* g dx$
+ - $\int_{-\inf}^{inf} f^* \hat{A} g dx =\int_{-\inf}^{infty} (A^\dagger f)^* g dx$
 
 - if $A^\dagger = A$ then A is Hermitian operator
 - operators associated with physical quantities are Hermitian
