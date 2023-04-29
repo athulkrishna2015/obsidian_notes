@@ -35,92 +35,31 @@ $\psi $ and its derivatives must be continuous, Single valued, square integrable
 $<\psi|=(|\psi>^\intercal)^*$
 ### Inner product
 - $<\psi_1|\psi_2> = <\psi_2|\psi_1>^*$
-- $\int_{-\infty}^\infty \psi_1^*\psi_2 = (\int_{-\infty}^\infty \psi_2^*\psi_1)^*$
+- $\int_{-\infty}^\infty \psi_1^*\psi_2 = (\int_{-\infty}^\infty \psi_1^*\psi_1)^*$
 - $<\phi_1|\phi_2> = \delta_{i,j}$
 - $|\psi>=\Sigma_1^n c_n|\phi_n>$
 	- $|\psi>=\Sigma_1^n c_n^*<\phi_n|$
-
 Schwartz inequality
 $(<\psi|\phi>)^2\leq |<\psi|\psi>||<\phi|\phi>|$
-
 
 ### Probability
 $P_i= \frac{|<\phi_i|\psi>|^2}{<\psi|\psi>}$
 
-
-commuatative
- $AB=BA$ [A,B] = AB-BA
-anticammutative
- $AB=-BA$
-
-- $[x,p_x]=i\hbar$
-- if two operator are Hermitian and their product is also Hermitian then they are commutative
-- $[A,B]^\dagger = [B^\dagger,A^\dagger]$
-	- if $A^\dagger = A \text{ and } B^\dagger = A$
-	- $[A,B]^\dagger = -[A,B]$
-- [A, B+C+D] = [A,B]+[A,C]+[A,D]
-- Distributive [A,BC] = [A,B]C+B[A,C]
-- Jacabi identity [A,[B,C]]+[B,[C,A]]+[C,[A,B]]=0
-- $[A,B^n]=nB^{n-1}[A,B]$, or  $[A^n,B]=nA^{n-1}[A,B]$
-- Tr[A,B]=0 , Tr(AB)=Tr[BA]
-- [f(A),(g(A))]=0, also [f(A),f(B)=0], if [A,B]=0
-
-
 ### Operator
 - $\hat{A}|\psi>=a|\psi>$, a is eigen value, $\psi$ = eigen state
-	- $H|\psi>=E|\psi>$
 - Expectation value $<A>=\frac{<\psi|A|\psi>}{<\psi|\psi>}$(average value)
 	- $<A>=\Sigma p_i a_i$, Only applicable when basis vectors are eigen state of the operator 
 		- $<E>=\Sigma p_i \epsilon_i$
-#### Hermitian operator
-- $<f|A|g> = <fB|g>$ B is Hermitian adjoint of A  ($B=A^\dagger$)
- - $<f|Ag> = $<A^\dagger f|g>$
- - $\int_{-\infty}^{\infty} f^* \hat{A} g dx =\int_{-\infty}^{\infty} (A^\dagger f)^* g dx$
-
-- if $A^\dagger = A$ then A is Hermitian operator
-- operators associated with physical quantities are Hermitian
- - $i^\dagger = -i$
-- The eigen values of an hermitian operators are real and the corresponding eigen vectors are orthogonal
-	-  The eigen values of an Anti-hermitian operators are Zero or imaginary and the corresponding eigen vectors are orthogonal
-
-#### Projection operator
-- $p^2 = p$
-- $p^\dagger = p$
-- eigen value is zero or one
-- the product of two commuting projection operator is also a projection operator
-	 - $[P_1,P_2]= 0$, $P_1P_2 = P_2P_1$
-- sum of two projection operator is also a projection operator if they are anti-commutative
-	 - $P_1P_2 = -P_2P_1$
-#### Angular momentum operator
-- $\hat{L}=\vec{r} \times \vec{p}$
-	- $L_x=yP_z-zP_y$
-	- $L_y=zP_x-xP_z$
-	- $L_z=xP_y-yP_z$
-![[Screenshot_20230426_182722.png]]
-
-#### Inverse operator 
-- $B=A^{-1}$
-	- $AB=I$
-- $A|\psi>=\lambda |\psi>$
-	- $A^{-1}|\psi>=\frac{1}{\lambda} |\psi>$
-##### unitary operator
-- $A^\dagger = A^{-1}$ or $AA^\dagger=I$
-- product of unitary operators is also a unitary operator
-- Eigen value of unitary operator is complex number of modulus =1
-- Eigen vectors of a unitary operator that has non degenerate eigen values are orthogonal
-
-## Uncertainty relation 
-
-$\Delta A \Delta B =\frac{1}{2}|<[A,B]>|$
-- $\Delta A \geq \sqrt{<A^2>-<A>^2}$ 
-
-### Hermitian function
-${f(A)}^\dagger = f(A)$
-- iff $f$ is real and $A$ is hermitian function
 
 ## Schrodinger equation 
 - $i\hbar \frac{\partial \psi}{\partial t}= \frac{-\hbar^2}{2m}\nabla^2\psi + U(\psi)$
 - $\nabla^2 \phi + \frac{2m}{\hbar^2}(E-U)\phi = 0$
+
+
+- continuity equation $\nabla \cdot S + \frac{\partial P}{\partial t} = 0$
+	- Probability current density $S= \frac{\hbar}{2im} [\psi^* \nabla \psi - \psi^ \nabla \psi^*$]
+	- $S=Re(\psi^*\hat{V}\psi$) where $\hat{V}=\hat{p}/m$ velocity 
+	- probability density $P=\psi^*\psi$
 
 ## Particle in a box
 1D

@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "NET/Quantum mechanics.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -142,6 +142,7 @@
   },
   "active": "4832f13e399ba5cd",
   "lastOpenFiles": [
+    "NET/Quantum mechanics.sync-conflict-20230429-222034-V7IGUKB.md",
     "obsidian_notes",
     "NET/attach/Screenshot_20230426_182722.png",
     "NET/attach",
