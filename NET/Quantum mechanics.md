@@ -20,8 +20,11 @@ $\Delta \lambda = \frac{h}{m_0 c }(1-\cos \phi)$
 	 -  $\frac{dv_p}{d\lambda} > 0$ Normal dispesion
 	   -  $\frac{dv_p}{d\lambda} < 0$ Anomalous dispersion
 # wave function
-$\psi(r,t) = Ae^{i(k\dot r - \omega t)}$
-$\psi $ and its derivatives must be continuous, Single valued, square integrable,   
+$\psi(r,t) = Ae^{i(k\cdot r - \omega t)}$
+$\psi$ and its derivatives must be continuous, Single valued, square integrable,
+$\psi(x,t)=Ae^{\frac{-i}{\hbar}(Et-px)}$
+$\psi(x,t)=\phi(x)f(t)$ ,where $f{t}=e^{\frac{-i}{\hbar}Et}$
+
 
 ### operators as functions
 - $\hat{p}=-i\hbar \nabla$
