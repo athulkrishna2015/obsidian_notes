@@ -33,6 +33,7 @@ $\psi(x,t)=\phi(x)f(t)$ ,where $f{t}=e^{\frac{-i}{\hbar}Et}$
 - $\hat{H}=-\frac{\hbar^2}{2m}\nabla^2+U$
 - $\hat{L}=\hat{r}\times \hat{p}$
 - Expectation value $<A>=\frac{\int \psi^* \hat{A} \psi}{\psi^*\psi}$
+	- $<A>=\frac{<\psi|\hat{A}|\psi>}{<\psi|\psi>}$
 
 ## Dirac notation
 $<\psi|=(|\psi>^\intercal)^*$
@@ -57,6 +58,7 @@ anticammutative
  $AB=-BA$
 
 - $[x,p_x]=i\hbar$
+	- $[x,P]=i\hbar$
 - if two operator are Hermitian and their product is also Hermitian then they are commutative
 - $[A,B]^\dagger = [B^\dagger,A^\dagger]$
 	- if $A^\dagger = A \text{ and } B^\dagger = A$

@@ -72,6 +72,14 @@
             "sortOrder": "alphabetical"
           }
         }
+      },
+      {
+        "id": "f6faad103b33cc7d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -110,7 +118,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -121,13 +129,14 @@
   },
   "active": "9ce9969b82658a08",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "NET/Quantum mechanics.md",
     "NET/Classical Mechanics.md",
     "NET/EMT.md",
     "NET/Electronics.md",
     "NET/atomic and molecualar.md",
     "Constants.md",
     "NET/Oscilation,Wave.md",
-    "NET/Quantum mechanics.md",
     "Tet/Psychology.md",
     "B.Ed/Psycholgy/Development of the learner/Cognitive development.md",
     "Tet",
