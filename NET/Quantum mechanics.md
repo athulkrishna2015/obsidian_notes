@@ -128,9 +128,11 @@ ${f(A)}^\dagger = f(A)$
 - $\nabla^2 \phi + \frac{2m}{\hbar^2}(E-U)\phi = 0$
 
 ### Solution
-$\frac{d^2 \phi}{d x^2} + k^2 x = 0$, where $k=\frac{\sqrt{2m(E-V)}}{\hbar}$
+$\frac{d^2 \phi}{d x^2} + k^2 x = 0$
 - (E>V), Unbounded, Oscillatory and imaginary
+	-  $\phi = Ae^{ikx}+Be^{-ikx}$, Where $k=\frac{\sqrt{2m(E-V)}}{\hbar}$
 - (E<V), Bounded , exponentially decaying and real 
+	- $\phi = Ae^{k'x}+Be^{-ik'x}$, Where $k=\frac{\sqrt{2m(E-V)}}{\hbar}$
 
 
 ## Particle in a box
