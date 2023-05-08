@@ -129,6 +129,7 @@ ${f(A)}^\dagger = f(A)$
 
 ### Solution
 $\frac{d^2 \phi}{d x^2} + k^2 x = 0$
+contant potential
 - (E>V), Unbounded, Oscillatory and imaginary
 	-  $\phi = Ae^{ikx}+Be^{-ikx}$, Where $k=\frac{\sqrt{2m(E-V)}}{\hbar}$
 - (E<V), Bounded , exponentially decaying and real 
