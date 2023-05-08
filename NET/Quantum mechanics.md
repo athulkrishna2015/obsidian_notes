@@ -127,6 +127,12 @@ ${f(A)}^\dagger = f(A)$
 - $i\hbar \frac{\partial \psi}{\partial t}= \frac{-\hbar^2}{2m}\nabla^2\psi + U(\psi)$
 - $\nabla^2 \phi + \frac{2m}{\hbar^2}(E-U)\phi = 0$
 
+### Solution
+$\frac{d^2 \phi}{d x^2} + k^2 x = 0$, where $k=\frac{\sqrt{2m(E-V)}}{\hbar}$
+- (E>V), Unbounded, Oscillatory and imaginary
+- (E<V), Bounded , exponentially decaying and real 
+
+
 ## Particle in a box
 1D
 - $\psi_n(x)=\sqrt{\frac{2}{a}}\sin \frac{n\pi x}{a}$

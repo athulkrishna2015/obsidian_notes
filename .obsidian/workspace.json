@@ -14,18 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "NET/Quantum mechanics.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "04423da95452c154",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -37,12 +27,11 @@
               "state": {
                 "file": "NET/Mathematical.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -117,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NET/Quantum mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +135,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04423da95452c154",
+  "active": "2c9d7902969397c0",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-05-04 00.57.00.excalidraw.md",
     "NET/Quantum mechanics.md",

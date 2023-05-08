@@ -5,8 +5,9 @@
   "attachmentFolderPath": "./attach",
   "alwaysUpdateLinks": false,
   "promptDelete": true,
-  "livePreview": false,
+  "livePreview": true,
   "useMarkdownLinks": false,
   "spellcheck": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "defaultViewMode": "source"
 }
