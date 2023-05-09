@@ -157,7 +157,9 @@ contant potential
 - $<x>=<p>=0$
 
 ## Step well potential
-
+- reflection coe $R=\frac{J_R}{J_I}$, J= probability current density 
+- Transmission coe $T=\frac{J_T}{J_I}$
+	- $J=\frac{\hbar}{2im}[\psi^*\nabla \psi - \psi \nabla \psi^*]$
 
 ## Bohr model of atom
 - $r_n=\frac{n^2h^2\epsilon_0}{\pi Z me^2}= 0.529 \frac{n^2}{Z} A^o$, n= principle quantum number
