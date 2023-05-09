@@ -142,8 +142,11 @@ contant potential
 - $E_n=\frac{n^2\hbar^2\pi^2}{2ma^2}$
 - $<x>=\frac{a}{2}$
 - $<x^2>=a^2\left[\frac{1}{3}-\frac{1}{2n^2\pi^2}\right]$
+	- $\Delta x =\sqrt{<x^2>-<x>^2}$
 - $<p>=0$, for a real wave function 
 - $<p^2>=\frac{n^2\hbar^2\pi^2}{a^2}$, from $\frac{p^2}{2m}=E_n$
+	- $\Delta p = \frac{n^2\hbar^2\pi^2}{a^2}$ 
+
 3D
 - $\psi_n(x)=\sqrt{\frac{8}{abc}}\sin \frac{n_x\pi x}{a}\sin \frac{n_y\pi x}{b}\sin \frac{n_z\pi x}{c}$
 - $E_{n_xn_yn_z}=\frac{\hbar^2\pi^2}{2m}\left(\frac{n^2_x}{a}+\frac{n^2_y}{b}+\frac{n^2_z}{c}\right)$
