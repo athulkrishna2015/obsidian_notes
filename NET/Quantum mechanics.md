@@ -150,6 +150,15 @@ contant potential
 3D
 - $\psi_n(x)=\sqrt{\frac{8}{abc}}\sin \frac{n_x\pi x}{a}\sin \frac{n_y\pi x}{b}\sin \frac{n_z\pi x}{c}$
 - $E_{n_xn_yn_z}=\frac{\hbar^2\pi^2}{2m}\left(\frac{n^2_x}{a}+\frac{n^2_y}{b}+\frac{n^2_z}{c}\right)$
+
+### symmetric potential  well
+- $\psi_n(x)=\sqrt{\frac{2}{a}}\sin \frac{n\pi x}{a}$, for n= 2,4,6 odd wave function
+- $\psi_n(x)=\sqrt{\frac{2}{a}}\cos \frac{n\pi x}{a}$, for n=1,2,3 even wave function
+- $<x>=<p>=0$
+
+## Step well potential
+
+
 ## Bohr model of atom
 - $r_n=\frac{n^2h^2\epsilon_0}{\pi Z me^2}= 0.529 \frac{n^2}{Z} A^o$, n= principle quantum number
 - $E_n=\frac{Z^2me^4} {8n^2h^2\epsilon_0^2}=-13.6\frac{Z^2}{n}eV$
