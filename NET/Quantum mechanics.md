@@ -157,12 +157,14 @@ contant potential
 - $<x>=<p>=0$
 
 ## Step well potential
+### $E>V_0$
 - reflection coe $R=\frac{J_R}{J_I} = \left(\frac{k_1-k_2}{k_1+k_2}\right)^2= \left(\frac{p_1-p_2}{p_1+p_2}\right)^2$
 - Transmission coe $T=\frac{J_T}{J_I} = 1-R=\frac{4k_1k_2}{(k_1+k_2)^2}= \frac{4p_1p_2}{(p_1+p_2)^2}$
 	- $T+R=1$
 	- $p=\hbar k$
 	-  $J=\frac{\hbar}{2im}[\psi^*\nabla \psi - \psi \nabla \psi^*]$, J= probability current density 
-
+### $E<V_0$
+- 
 ## Bohr model of atom
 - $r_n=\frac{n^2h^2\epsilon_0}{\pi Z me^2}= 0.529 \frac{n^2}{Z} A^o$, n= principle quantum number
 - $E_n=\frac{Z^2me^4} {8n^2h^2\epsilon_0^2}=-13.6\frac{Z^2}{n}eV$
