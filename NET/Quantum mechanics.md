@@ -164,7 +164,12 @@ contant potential
 	- $p=\hbar k$
 	-  $J=\frac{\hbar}{2im}[\psi^*\nabla \psi - \psi \nabla \psi^*]$, J= probability current density 
 ### $E<V_0$
-- 
+- $\psi=Ae^{ikx}+Be^{-ikx}$
+	- $k^2=\frac{2mE}{\hbar^2}$
+- $\psi_2=De^{-\alpha x}$
+	- $\alpha^2 = \frac{2m(V_0-E)}{\hbar^2}$
+
+
 ## Bohr model of atom
 - $r_n=\frac{n^2h^2\epsilon_0}{\pi Z me^2}= 0.529 \frac{n^2}{Z} A^o$, n= principle quantum number
 - $E_n=\frac{Z^2me^4} {8n^2h^2\epsilon_0^2}=-13.6\frac{Z^2}{n}eV$
