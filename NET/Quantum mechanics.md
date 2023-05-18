@@ -168,7 +168,12 @@ contant potential
 	- $k^2=\frac{2mE}{\hbar^2}$
 - $\psi_2=De^{-\alpha x}$
 	- $\alpha^2 = \frac{2m(V_0-E)}{\hbar^2}$
-
+## Finite square well potential
+- $\eta=\zeta \tan \zeta$
+- $\eta^2+\zeta^2=R$
+	- $R=\frac{2mv_0}{\hbar^2}\text{(+ve width)}^2$
+	- $\eta=\frac{k_1a}{2}$
+	- $\zeta=\frac{k_2a}{2}$
 
 ## Bohr model of atom
 - $r_n=\frac{n^2h^2\epsilon_0}{\pi Z me^2}= 0.529 \frac{n^2}{Z} A^o$, n= principle quantum number
