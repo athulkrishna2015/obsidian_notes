@@ -169,7 +169,8 @@ contant potential
 - $\psi_2=De^{-\alpha x}$
 	- $\alpha^2 = \frac{2m(V_0-E)}{\hbar^2}$
 ## Finite square well potential
-- $\eta=\zeta \tan \zeta$
+- $\eta=\zeta \tan \zeta$, for even
+- $\eta=-\zeta \tan -\zeta$ , for odd
 - $\eta^2+\zeta^2=R$
 	- $R=\frac{2mv_0}{\hbar^2}\text{(+ve width)}^2$
 	- $\eta=\frac{k_1a}{2}$
