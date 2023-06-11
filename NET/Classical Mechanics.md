@@ -32,7 +32,7 @@
 
 
 - $E= \frac{1}{2}m\dot{r}^2+U(r)$
-  The points where the line $E$ crosses the potential curve are the ==turning points==. Since beyond those points $U(r) > E$, if the particle crosses those points then from above eqution we will get $\dot{r}^2 =-ve$
+  The points where the line $E$ crosses the potential curve are the ==turning points==. Since beyond those points $U(r) > E$, if the particle crosses those points then from above equation we will get $\dot{r}^2 =-ve$
 # [[Special theory of relativty]]
 
 [[Special theory of relativty#2 LT]]

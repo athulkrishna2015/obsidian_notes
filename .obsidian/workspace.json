@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6051751f8fc7485c",
+        "id": "20fe6899d4a2e7ba",
         "type": "tabs",
         "children": [
           {
-            "id": "2c9d7902969397c0",
+            "id": "5666a2e9addd83a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B.Ed/Psycholgy/Development of the learner/Cognitive development.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5516bceb996a094",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B.Ed/Philosophy/Contemporary India and Perspectives on Education/years.md",
+                "file": "NET/Classical Mechanics.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B.Ed/Psycholgy/Development of the learner/Cognitive development.md",
+                "file": "NET/Classical Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,16 +123,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2c9d7902969397c0",
+  "active": "5666a2e9addd83a7",
   "lastOpenFiles": [
-    "B.Ed/Psycholgy/Development of the learner/Emotional Development.md",
+    "Phd/material.md",
+    "B.Ed/Philosophy/Contemporary India and Perspectives on Education/years.md",
     "B.Ed/Psycholgy/Development of the learner/Cognitive development.md",
+    "B.Ed/Psycholgy/Development of the learner/Emotional Development.md",
     "B.Ed/Psycholgy/Development of the learner/Moral Development.md",
     "B.Ed/Psycholgy/Development of the learner/Personality.md",
     "B.Ed/Psycholgy/Development of the learner/Social Development.md",
     "B.Ed/Psycholgy/Development of the learner/Stages range.md",
     "B.Ed/Philosophy/Contemporary India and Perspectives on Education/Education.md",
-    "B.Ed/Philosophy/Contemporary India and Perspectives on Education/years.md",
     "NET/Quantum mechanics.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2023-05-04 00.57.00.excalidraw.md",
