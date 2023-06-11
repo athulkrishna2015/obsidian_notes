@@ -14,10 +14,11 @@
 - 1987 - Operation Blackboard
 - 1990 - Ramamurti review commite
 - 2001 - Sarva Sihiksha Abhiyan (SSA)
-- 2002 - 86th amendment 
+- 2002 - 86th amendment (RTE - 21A)
 - 2005 - National Curriculum Framework (NCF)
 - 2007 - Kerala Curriculum Framework
 - 2009 - Right to Education Act,
 	- Rashtriya Madyamic Shiksha Abhiyan (RMSA)
 	- National Curriculum Framework for Teacher Education (NCFTE)
+- 2020 - NPE
 

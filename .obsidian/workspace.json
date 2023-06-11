@@ -13,20 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NET/Quantum mechanics.md",
+                "file": "B.Ed/Psycholgy/Development of the learner/Cognitive development.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1e005857c7a6879b",
+            "id": "d5516bceb996a094",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NET/Mathematical.md",
-                "mode": "preview",
+                "file": "B.Ed/Philosophy/Contemporary India and Perspectives on Education/years.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NET/Quantum mechanics.md",
+                "file": "B.Ed/Psycholgy/Development of the learner/Cognitive development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,8 +137,16 @@
   },
   "active": "2c9d7902969397c0",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "B.Ed/Psycholgy/Development of the learner/Emotional Development.md",
+    "B.Ed/Psycholgy/Development of the learner/Cognitive development.md",
+    "B.Ed/Psycholgy/Development of the learner/Moral Development.md",
+    "B.Ed/Psycholgy/Development of the learner/Personality.md",
+    "B.Ed/Psycholgy/Development of the learner/Social Development.md",
+    "B.Ed/Psycholgy/Development of the learner/Stages range.md",
+    "B.Ed/Philosophy/Contemporary India and Perspectives on Education/Education.md",
+    "B.Ed/Philosophy/Contemporary India and Perspectives on Education/years.md",
     "NET/Quantum mechanics.md",
+    "Untitled.canvas",
     "Excalidraw/Drawing 2023-05-04 00.57.00.excalidraw.md",
     "Constants.md",
     "Untitled 1.canvas",
@@ -158,10 +166,6 @@
     "NET/Electronics.md",
     "NET/Optics.md",
     "NET/Oscilation,Wave.md",
-    "NET/Solid state Physics.md",
-    "B.Ed/Philosophy/Contemporary India and Perspectives on Education/years.md",
-    "B.Ed/Psycholgy/Development of the learner/Stages range.md",
-    "B.Ed/Psycholgy/Development of the learner/Social Development.md",
-    "B.Ed/Psycholgy/Development of the learner/Personality.md"
+    "NET/Solid state Physics.md"
   ]
 }

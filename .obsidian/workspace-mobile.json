@@ -33,13 +33,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NET/Quantum mechanics.md",
-                "mode": "preview",
+                "file": "B.Ed/Philosophy/Contemporary India and Perspectives on Education/years.md",
+                "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "aeb7a678bd3dd347",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Years.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "NET/Quantum mechanics.md",
+            "file": "Years.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,10 +140,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9ce9969b82658a08",
+  "active": "aeb7a678bd3dd347",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "B.Ed/Philosophy/Contemporary India and Perspectives on Education/years.md",
+    "Years.md",
+    "B.Ed/Philosophy/Contemporary India and Perspectives on Education/Education.md",
     "NET/Quantum mechanics.md",
+    "Untitled.canvas",
     "NET/Classical Mechanics.md",
     "NET/EMT.md",
     "NET/Electronics.md",
@@ -140,8 +156,6 @@
     "Tet/Psychology.md",
     "B.Ed/Psycholgy/Development of the learner/Cognitive development.md",
     "Tet",
-    "B.Ed/Philosophy/Contemporary India and Perspectives on Education/Education.md",
-    "B.Ed/Philosophy/Contemporary India and Perspectives on Education/years.md",
     "NET/Solid state Physics.md",
     "NET/Thermo dynamics.md",
     "NET/Optics.md",
