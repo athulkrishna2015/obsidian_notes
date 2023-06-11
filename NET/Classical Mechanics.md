@@ -1,4 +1,6 @@
-- rms velocity = $\sqrt{\frac{3RT}{M}}$
+- rms velocity = $V_{rms} = \sqrt{\frac{3RT}{M}}$
+- $V_{av}=\sqrt{\frac{8RT}{\pi M}}$
+- $V_m = \sqrt{\frac{2RT}{M}}$
 
 # Rigid body dynamics 
 - $R_{CM}=\frac{\Sigma m_i{r_i}^2}{\Sigma m_i}$
