@@ -4,6 +4,9 @@ eccentricity
 - e=1 - parabola
 - e>1 - Hyperbola
 
+Infinite series
+- $e^x=1+x+\frac{x^2}{2!}+...$
+
 # Derivations
 - ${\frac{d}{d x}}\left(e^{a x}\right)=a e^{a x}$
 - ${\frac{d}{d x}}(\ln a x)={\frac{1}{x}}$
