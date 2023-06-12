@@ -1,6 +1,6 @@
 eccentricity
-- e<0 - ellipse
 - e=0 - circle
+- 0<e<1 - ellipse
 - e=1 - parabola
 - e>1 - Hyperbola
 
