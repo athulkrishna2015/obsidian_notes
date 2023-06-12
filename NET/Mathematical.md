@@ -1,3 +1,9 @@
+eccentricity
+- e<0 - ellipse
+- e=0 - circle
+- e=1 - parabola
+- e>1 - Hyperbola
+
 # Derivations
 - ${\frac{d}{d x}}\left(e^{a x}\right)=a e^{a x}$
 - ${\frac{d}{d x}}(\ln a x)={\frac{1}{x}}$
