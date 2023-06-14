@@ -44,6 +44,7 @@ $\theta = \tan^{-1} (\frac{y}{x})$
 
 - $\mathbf{v}={\frac{d}{d t}}(r{\hat{\mathbf{r}}})=\dot{r}\hat{r}+r\dot{\theta}\hat{\theta}$
 - $\mathbf{a}=\left({\ddot{r}}-r{\dot{\theta}}^{2}\right){\hat{\mathbf{r}}}+(r{\ddot{\theta}}+2{\dot{r}}{\dot{\theta}}){\hat{\boldsymbol{\theta}}}$
+	- $a=a_R \hat{r}+a_T \hat{\theta}$
 
 
 
