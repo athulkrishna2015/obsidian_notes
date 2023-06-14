@@ -38,7 +38,7 @@ $r=\sqrt{x^2+y^2}$
 $\theta = \tan^{-1} (\frac{y}{x})$
 - $\hat{r}(\theta)=\cos\theta\hat{x}+\sin\theta\hat{y}$
 - $\hat{\theta}(\theta)=-\sin\theta\hat{x}+\cos\theta\hat{y}$
-- 
+
 - ${\frac{d{\hat{\mathbf{r}}}}{d t}}={\dot{\theta}}{\hat{\boldsymbol{\theta}}}$
 - $\frac{d\hat{\theta}}{d t}=-\dot{\theta}\hat{\mathrm{r}}$
 
