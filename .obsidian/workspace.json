@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa54a15df098a0bb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -136,7 +146,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "797d6531545bfac7",
+  "active": "fa54a15df098a0bb",
   "lastOpenFiles": [
     "NET/Classical Mechanics.md",
     "Phd/material.md",
