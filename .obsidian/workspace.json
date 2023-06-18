@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "NET/Classical Mechanics.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NET/Mathematical.md",
+                "file": "NET/Classical Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,8 +135,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7f100255484e873d",
+  "active": "e8599f65c51599ec",
   "lastOpenFiles": [
+    "NET/Mathematical.md",
     "NET/Classical Mechanics.md",
     "Phd/material.md",
     "B.Ed/Philosophy/Contemporary India and Perspectives on Education/years.md",
@@ -157,7 +157,6 @@
     "obsidian_notes",
     "NET/attach/Screenshot_20230426_182722.png",
     "NET/attach",
-    "NET/Mathematical.md",
     "NET/Thermo dynamics.md",
     "PSC/Maths formulas.md",
     "PSC/Constitution.md",

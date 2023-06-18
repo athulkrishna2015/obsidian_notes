@@ -1,3 +1,4 @@
+
 - rms velocity = $V_{rms} = \sqrt{\frac{3RT}{M}}$
 - $V_{av}=\sqrt{\frac{8RT}{\pi M}}$
 - $V_m = \sqrt{\frac{2RT}{M}}$
@@ -18,6 +19,15 @@
 - Viscosity $F = -\eta A \frac{dv}{dx}$, $\eta$ coe of viscosity
 	- stocks law $F = 6\pi \eta r v$
 	- reynolds number = $\frac{\rho vd}{\eta}$,d diameter of the tube 
+
+
+## Projectile motion
+- $T=\frac{2u\sin(\theta)}{g}$
+- $H=\frac{u^2\sin^2(\theta)}{2g}$
+- $R=\frac{u^2\sin(2\theta)}{g}$
+- 
+
+
 # Dissipative Force
 - Damping force $f =-kv$
 
