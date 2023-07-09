@@ -7,18 +7,18 @@
 - $R_{CM}=\frac{\Sigma m_i{r_i}^2}{\Sigma m_i}$
 - $I=\Sigma m_i r_i^2$
 	- $I=\int x^2 dm$
-	- $I_2=I_1+md^2$ Paralell axis theorm
-	- $I_z=I_x+I_y$ Perpendicular axis theorm
+	- $I_2=I_1+md^2$ Parallel axis theorem
+	- $I_z=I_x+I_y$ Perpendicular axis theorem
 # Hydro
-- Exess pressre 
+- Excess pressure 
 	- inside a spherical drop $\Delta p = \frac{2T}{r}$
 	- Inside a bubble $\Delta p = \frac{4T}{r}$
-- Capilary rise $h=\frac{2T \cos \theta }{r \rho g}$
-- Equation of continuty $\rho_1 A_1 v_1 = \rho_2 A_2 v_2$
-- Bernouli equation $P+\frac{1}{2}\rho v^2 +\rho gh = 0$
+- Capillarity rise $h=\frac{2T \cos \theta }{r \rho g}$
+- Equation of continuity $\rho_1 A_1 v_1 = \rho_2 A_2 v_2$
+- Bernoulli equation $P+\frac{1}{2}\rho v^2 +\rho gh = 0$
 - Viscosity $F = -\eta A \frac{dv}{dx}$, $\eta$ coe of viscosity
 	- stocks law $F = 6\pi \eta r v$
-	- reynolds number = $\frac{\rho vd}{\eta}$,d diameter of the tube 
+	- Reynolds number = $\frac{\rho vd}{\eta}$,d diameter of the tube 
 
 
 ## Projectile motion
@@ -35,10 +35,10 @@ derive
 # Basic Kinematics and Dynamics
 
 
-- Center of mass is a vector. You need to find x coordinate and y coordinate of the COM separately in some types of problems particularly where the are no spherical / cylindrical symmetry.
+- Centre of mass is a vector. You need to find x coordinate and y coordinate of the COM separately in some types of problems particularly where the are no spherical / cylindrical symmetry.
 - Whenever some particles stick together or one particle enter another particle the energy conservation is not applied as there are some energy losses due to heat generation. We apply momentum conservation only.
-- For a classical bounded particle if $V(x) \propto x^n$ then the time period preportional to $T \propto E^{\frac{1}{n}-\frac{1}{2}}$
-- Totel distance travelled by bouncing balls $S= h \frac{1+e^2}{1-e^2}$ where e= coe of restitution 
+- For a classical bounded particle if $V(x) \propto x^n$ then the time period proportional to $T \propto E^{\frac{1}{n}-\frac{1}{2}}$
+- Total distance travelled by bouncing balls $S= h \frac{1+e^2}{1-e^2}$ where e= coe of restitution 
 
 - For a central force (it is a function of $r$) $\nabla \times F = 0$ (Conservative) and the angular momentum always remains conserve ($\frac{dL}{dt} = \tau =0$).
 - In a field a particle will always move toward the direction where the potential is minimum. ${\frac{d V}{d x}}=-{ F}(x)=0.$
