@@ -1,0 +1,4 @@
+- Plato - Idealism 
+- Rousseau - Anti-social Philosophy  
+- Dewey - Pragmatism
+- 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tet/Books.md",
+                "file": "Tet/Philosophy.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tet/Books.md",
+                "file": "Tet/Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,8 +125,9 @@
   },
   "active": "d2841214cdce5f64",
   "lastOpenFiles": [
-    "Tet/Psychology.md",
     "Tet/Books.md",
+    "Tet/Philosophy.md",
+    "Tet/Psychology.md",
     "NET/Classical Mechanics.md",
     "NET/Mathematical.md",
     "Phd/material.md",
@@ -155,7 +156,6 @@
     "NET/EMT.md",
     "NET/Electronics.md",
     "NET/Optics.md",
-    "NET/Oscilation,Wave.md",
-    "NET/Solid state Physics.md"
+    "NET/Oscilation,Wave.md"
   ]
 }
