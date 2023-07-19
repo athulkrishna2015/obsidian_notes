@@ -25,4 +25,14 @@
 	- Laws of effect
 	- Law of exercise
 # Gagane
-- 
+- 8 levels (സിനി സിനി ചാടി വാ മരത്തിൽ കേറി പൂ പറിക്കാം )
+	- Signal level
+	- Stimulus Response level
+	- Chaining
+	- Verbal association
+	- Multiple discrimination
+	- Concept level
+	- Principle level
+	- Problem solving level
+# J L Moreno
+- Sociometry
