@@ -10,7 +10,9 @@
 - theory of cognitive development
 - object permanence 
 - ego-centrism
-#  
+# Rousseau
+- Negative Education
+
 
 # Pavlov
 -  Classical conditioning / S type / Respondent conditioning
