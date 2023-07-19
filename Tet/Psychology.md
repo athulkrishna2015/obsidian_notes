@@ -24,4 +24,5 @@
 	- Law of readiness
 	- Laws of effect
 	- Law of exercise
+# Gagane
 - 
